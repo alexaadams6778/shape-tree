@@ -1,1 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
 bin/
+target/
+
+# macOS
+.DS_Store
+
+# Java
+*.class
+
+# IDEs
+.idea/
+*.iml
