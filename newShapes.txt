@@ -1,0 +1,10 @@
+Right	Triangle	Base:	2.0	Height:	2.0		2.0
+Right	Triangle	Base:	3.0	Height:	2.0		3.0
+Circle	Radius:	2.0		12.566370614359172
+Rectangle	Length:	2.0	Width:	7.0		14.0
+Right	Triangle	Base:	5.0	Height:	6.0		15.0
+Rectangle	Length:	9.0	Width:	2.0		18.0
+Rectangle	Length:	3.0	Width:	8.0		24.0
+Rectangle	Length:	5.0	Width:	5.0		25.0
+Right	Triangle	Base:	9.0	Height:	9.0		40.5
+Circle	Radius:	4.0		50.26548245743669
